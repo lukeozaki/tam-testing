@@ -1,6 +1,6 @@
 # SITE-STARTER-REACT-BASIC
 
-test commit
+test commit.
 
 This repository provides a basic example of how to start developing a React site on the Yext Sites system.
 
